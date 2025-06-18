@@ -1,0 +1,29 @@
+{
+  "expo": {
+    "name": "expo-demo-home-screen",
+    "slug": "expo-demo-home-screen",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/Group8.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/images/Group8.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/images/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "edgeToEdgeEnabled": true
+    },
+    "web": {
+      "favicon": "./assets/images/favicon.png"
+    }
+  }
+}
